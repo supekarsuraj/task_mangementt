@@ -13,7 +13,7 @@ Make sure you have Node.js installed on your machine. You can download it [here]
 1. Clone this repository:
 
     ```
-    git clone https://github.com/supekarsuraj/Resotech_Solution_Assignment.git
+    git clone https://github.com/supekarsuraj/Task_managementt.git
     ```
 
 2. Navigate to the project directory:
@@ -42,7 +42,7 @@ npm run dev
 Open your terminal (cmd, powershell, git bash)
 Clone this repository by :
 ```
-git clone https://github.com/supekarsuraj/ChainTech-Network.git
+git clone https://github.com/supekarsuraj/Task_managementt.git
 ```
 Enter to the repository folder :
 ```
