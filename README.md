@@ -68,7 +68,7 @@ DB_DATABASE = "task_manangement" //the db_name you choose in 1st step
 Now it's time to use API endpoints.
 1. start node.js server
 ```
-npm start
+node server.js
 ```
 
 Thank you
