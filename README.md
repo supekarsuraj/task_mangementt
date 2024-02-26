@@ -46,7 +46,7 @@ git clone https://github.com/supekarsuraj/ChainTech-Network.git
 ```
 Enter to the repository folder :
 ```
-cd ChainTech-Network
+cd task_mangementt
 cd backend
 ```
 Install all required dependencies using npm or you can also use` yarn`:
@@ -54,19 +54,15 @@ Install all required dependencies using npm or you can also use` yarn`:
 npm install or yarn install
 ```
 ## Setup Database
-1. *Create a database* with a name of your choice in postgres.
+1. *Create a database* with a name of your choice in mongodb.
 ```
 mysql=# CREATE DATABASE db_name;
 ```
-2. *Import SQL file*, you will find sql schema files in our cloned folder "ChainTech-Network/backend/schema" . Import those files or run those files in your mysql workbench.
 
-3. *Setup .env file* according to your local settings. Add .env file in ChainTech-Network/backend folder.
+2. *Setup .env file* according to your local settings. Add .env file in task_mangementt/backend folder.
 ```
 PORT = 8081 // choose the port for server to run
-DB_USER = "root" //your MySQL username
-DB_HOST = "localhost" 
 DB_DATABASE = "task_manangement" //the db_name you choose in 1st step
-DB_PASSWORD = "root123" //password of your MySQL database
    ```
 ## How to use 
 Now it's time to use API endpoints.
