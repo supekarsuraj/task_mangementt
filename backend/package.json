@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.2.0",
+    "mysql2": "^3.9.0",
+    "nodemon": "^3.0.3",
+    "path": "^0.12.7",
+    "router": "^1.3.8"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "nodejsmvcstructure",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "suraj",
+  "license": "ISC",
+  "description": ""
+}
